@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/orz.jpg</file>
+        <file>resource/icon_drill-down.png</file>
+        <file>resource/icon_link-xls.png</file>
+        <file>resource/icon_dismiss.png</file>
+        <file>resource/Default_Icon.png</file>
+        <file>resource/yuan256.png</file>
+        <file>resource/icon_info_x24.png</file>
+        <file>resource/20152.jpg</file>
+        <file>resource/20155.jpg</file>
+    </qresource>
+</RCC>
