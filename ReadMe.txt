@@ -1,6 +1,6 @@
                 Document for the Annual software
 
-1. Just for the fourth prize of the annual party.
+1. Just for the annual prize of the annual party.
 
 2. 4 types for the prize:
     A) Married without child           42      (15.1%)     -- 4 gifts
