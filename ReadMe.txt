@@ -21,3 +21,5 @@ list, lucky list, so you can close the running software and then delete the
 db file, and reimport the candidates, if any problem.
 
 5. The codes can be modified, or you can mail to me for any comments, thanks.
+
+6. The project has been upload into GitHub.
